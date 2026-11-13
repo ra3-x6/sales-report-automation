@@ -1,0 +1,5 @@
+order_id,line_id,ordered_at,status,sku,product_name,quantity,unit_price_minor,currency
+demo-101,1,2026-10-02T10:00:00Z,completed,BURGER,House Burger,2,9500,EGP
+demo-101,2,2026-10-02T10:00:00Z,completed,FRIES,Fries,1,2550,EGP
+demo-102,1,2026-10-02T12:15:00Z,cancelled,BURGER,House Burger,1,9500,EGP
+demo-103,1,2026-10-03T10:00:00Z,pending,FRIES,Fries,2,2550,EGP
